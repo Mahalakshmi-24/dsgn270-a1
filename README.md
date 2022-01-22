@@ -6,4 +6,8 @@
 
 ## Purpose of the webite:
     
-    Dell Technoloigies is the most successful computer company.Dell Computer Corporation, global company that designs, develops, and manufactures personal computers (PCs) and a variety of computer-related products. The company is one of the world's leading suppliers of PCs.
+    Dell Technoloigies is the most successful computer company.
+    Dell Computer Corporation, global company that designs, 
+    develops, and manufactures personal computers (PCs) and a
+    variety of computer-related products. The company is one
+    of the world's leading suppliers of PCs.
