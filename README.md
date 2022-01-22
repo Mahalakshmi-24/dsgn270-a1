@@ -51,3 +51,6 @@
         9. Enter the payment option and click continue
 
         10. It redirect to the success page.
+
+## Wireflow
+![wireframe](https://github.com/Mahalakshmi-24/dsgn270-a1/blob/main/image/wireframe.png)
