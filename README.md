@@ -16,16 +16,21 @@
 
 ### User story1
 
-       * AS a Game player,I want a Wireless keyboard and mouse so
+       * As a Game player,I want a Wireless keyboard and mouse so
          that i can play the game fast and comfortable.
-
 ### User story2
 
-       * AS a College student,I want a laptop so that i can atten
+       * As a College student,I want a laptop so that i can atten
          my online classes and helpful to do my assignments.
-
 ### User story3
 
-       * AS a Employee,I want a printere so that i can peint my documents
+       * As a Employee,I want a printere so that i can print my documents
          arrange it properly.
 
+## Taskflow
+      
+      story: As a Employee,I want a printere so that i can print my documents
+             arrange it properly.
+
+
+        1.  User navigates to website using the browse address bar.
