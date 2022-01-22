@@ -24,13 +24,30 @@
          my online classes and helpful to do my assignments.
 ### User story3
 
-       * As a Employee,I want a printere so that i can print my documents
+       * As a Employee,I want a printer so that i can print my documents
          arrange it properly.
 
 ## Taskflow
       
-      story: As a Employee,I want a printere so that i can print my documents
+      story: As a Employee,I want a printer so that i can print my documents
              arrange it properly.
 
+        1. User navigates to website using the browse address bar.
 
-        1.  User navigates to website using the browse address bar.
+        2. User search the printer in search box.
+
+        3. User scroll down and select the product which he/she liked.
+
+        4. User looks the product and scroll down,
+
+        5. And click the add to cart button. 
+
+        6. Click the checkout button
+
+        7. User needs to enter mailid and password and click the signin button
+
+        8. User needs to enter billing address
+
+        9. Enter the payment option and click continue
+
+        10. It redirect to the success page.
